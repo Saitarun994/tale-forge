@@ -2,7 +2,7 @@
 <img src="media/cover.png">
 </h1> 
 
-# Trivia Odyssey
+# Tale Forge
 Tale Forge was inspired by the universal appeal of storytelling, aiming to make it accessible to all ages with the click of a button. Whether it's crafting bedtime tales for little ones or assisting scriptwriters in shaping initial drafts,. It harnesses the magic of words and visuals, empowering everyone to create captivating narratives effortlessly.
 
 # Webstack Architecture
