@@ -5,6 +5,8 @@
 # Tale Forge
 Tale Forge was inspired by the universal appeal of storytelling, aiming to make it accessible to all ages with the click of a button. Whether it's crafting bedtime tales for little ones or assisting scriptwriters in shaping initial drafts,. It harnesses the magic of words and visuals, empowering everyone to create captivating narratives effortlessly.
 
+<img src="media/demo.gif" width=150%>
+
 # Webstack Architecture
 <h1 align="center">
 <img src="media/stack.png">
@@ -30,8 +32,7 @@ Vertex AI, Prodia API, express.js , node.js, React , tailwind css
 - Got to explore Image/text generative ai
 - Integrating everything into my design
 
-- ## What's next for Trivia Odyssey
+## What's next for Tale Forge
 - Finish up my sign in using Auth0
 - Finish up the share with community page
 - Integrate text to speech for the story
-- 
