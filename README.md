@@ -13,7 +13,7 @@ Tale Forge was inspired by the universal appeal of storytelling, aiming to make 
 ## 🔑 Key Feature
 
 ### One Click Story Generation
-<img src="media/home.png" width=35%>
+<img src="media/home.png" width=85%>
 
 ### Responsive design
 <img src="media/mobile.png" width=35%>
