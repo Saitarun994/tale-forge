@@ -23,7 +23,7 @@ Tale Forge was inspired by the universal appeal of storytelling, aiming to make 
 ## 🛠 Skills
 Vertex AI, Prodia API, express.js , node.js, React , tailwind css 
 
-## 📃 Challenges we ran into
+## 📃 Challenges I ran into
 - Understanding vertex ai's api
 - Google cloud generative ai usage
 
